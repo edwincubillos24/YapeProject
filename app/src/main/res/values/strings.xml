@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YapeProject</string>
+    <string name="base_url">http://demo5497816.mockable.io/</string>
+    <string name="recipe_name_example">Frijoles</string>
+    <string name="country_label">Country: </string>
+    <string name="country_example">Egypt</string>
+    <string name="warning">Error</string>
+    <string name="continue_label">Continue</string>
+    <string name="name_example">Ceviche</string>
+    <string name="ingredients_example">Ingredientes: Pescado fresco, Limón, Cebolla morada, Cilantro, Ají, Sal, Pimienta</string>
+    <string name="instructions_example">Instrucciones: 1. Corta el pescado en cubos. 2. Exprime los limones para obtener jugo fresco. 3. Mezcla el pescado con el jugo de limón, la cebolla morada picada, el cilantro picado, el ají, la sal y la pimienta. 4. Deja reposar en el refrigerador durante al menos 30 minutos. 5. Sirve frío.</string>
+    <string name="origin_country_example">País de origen: Argentina</string>
+    <string name="instructions">"Instrucciones: %s"</string>
+    <string name="origen_country">"País de origen: %s"</string>
+    <string name="ingredients">"Ingredientes: %s"</string>
+</resources>
